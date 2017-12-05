@@ -32,5 +32,5 @@ Here are the data for the project:
 - Step 4. Appropriately labels the data set with descriptive variable names.
 
 
-`tidy_data.txt`, a second dataset created frome the data set in step 4,  
+`tidyData.txt`, a second dataset created frome the data set in step 4,  
 with the average of each variable for each activity and each subject.
